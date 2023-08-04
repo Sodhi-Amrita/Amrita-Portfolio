@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
-import html from "../public/assets/skills/Html.png";
-import Css from "../public/assets/skills/CSS.png";
+import html from "../public/assets/skills/html.png";
+import Css from "../public/assets/skills/css.png";
 import Tailwind from "../public/assets/skills/tailwind.png";
 import Javascript from "../public/assets/skills/javascript.png";
 import node from "../public/assets/skills/node.png";
