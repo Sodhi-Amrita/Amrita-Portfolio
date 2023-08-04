@@ -26,7 +26,7 @@ import jquery from "../public/assets/skills/jquery.png";
 import firebase from "../public/assets/skills/firebase.png";
 import figma from "../public/assets/skills/figma.png";
 
-import { Html } from "next/document";
+
 
 const Skills = () => {
   const [pad,setPad] = useState(0);
